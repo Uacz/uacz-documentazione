@@ -1,2 +1,2 @@
-# uacz-documentazione
-Documentazione UACZ
+# uacz-obsidian
+La documentazione dell'Unione Astrofili Catanzaresi

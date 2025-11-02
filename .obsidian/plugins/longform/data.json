@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Unioni Astrofili Catanzaresi/Corso di Astronomia/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2025-09-23T06:15:54.830Z",
+      "total": 16,
+      "drafts": {
+        "content/Uacz/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0
+          }
+        },
+        "Unioni Astrofili Catanzaresi/Uacz/Index.md": {
+          "total": 16,
+          "scenes": {
+            "Introduction": 16
+          }
+        },
+        "Unioni Astrofili Catanzaresi/Corso di Astronomia/Index.md": {
+          "total": 16,
+          "scenes": {
+            "Introduction": 16
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-09-13T05:32:03.984Z",
+      "total": 0,
+      "drafts": {
+        "content/Uacz/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-09-12T18:48:00.046Z",
+      "total": 0,
+      "drafts": {
+        "content/Uacz/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-08-03T13:42:07.778Z",
+      "total": 0,
+      "drafts": {
+        "content/Uacz/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Introduction": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-05-11T18:42:00.771Z",
+      "total": 16,
+      "drafts": {
+        "content/Uacz/Index.md": {
+          "total": 16,
+          "scenes": {
+            "Introduction": 16
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

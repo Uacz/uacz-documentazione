@@ -1,0 +1,5 @@
+- Gli interni stellari (D)
+- L'atmosfera stellare (D)
+- Le altre stelle
+- Esercizi di calcolo
+- ESPERIENZA PRATICA: Osservazione del Sole

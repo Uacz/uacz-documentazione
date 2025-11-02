@@ -1,0 +1,7 @@
+- Riflettori e RIfrattori
+- Il piano focale e la risoluzione
+- La luminosità di una immagine e le aberrazioni
+- Formule pratiche
+- Radiotelescopi
+- Esercizi di Calcolo
+- ESPERIENZA PRATICA: Stazionamento di un telescopio (D)

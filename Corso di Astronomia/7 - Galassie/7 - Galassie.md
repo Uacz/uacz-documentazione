@@ -1,0 +1,6 @@
+- Via Lattea  (D)
+- La sequenza di Hubble  (D)
+- Galassie a Spirali e Irregolari (P)
+- Galassie Ellittiche (P)
+- Esercizi di Calcolo
+- ESPERIENZA PRATICA: Osservazione della Galassia di Andromeda o altra galassia (RICHIEDE BUIO)

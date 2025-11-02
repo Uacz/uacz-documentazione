@@ -1,0 +1,6 @@
+- La cosmologia newtoniana, stazionaria e inflazione (D)
+- la radiazione cosmica di fondo
+- Struttura dell'universo: origine e fine  (D)
+- Multiversi
+- Esercizi di calcolo
+- ESPERIENZA PRATICA: Lettura di un articolo scientifico di cosmologia
