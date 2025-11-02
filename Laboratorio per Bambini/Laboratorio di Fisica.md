@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/1DVrwphZVF6WAFDYUdlpee_d26Kk21WyjBC4vIxmwaso/edit?usp=sharing
 
 # Esperimento 1 - Ottica
 
