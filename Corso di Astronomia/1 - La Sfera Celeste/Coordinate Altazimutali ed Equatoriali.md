@@ -66,6 +66,10 @@ Un **[[Meridiano]]** è una semicirconferenza che collega il Polo Nord al Polo 
 
 Il **[[Meridiano locale]]**, o impropriamente meridiano, è il cerchio massimo della sfera celeste passante per i poli celesti e per i poli dell'orizzonte, detti Zenith e Nadir. Può anche pensarsi come la proiezione del meridiano geografico dell'osservatore sulla sfera celeste.
 
+Ora proiettiamo questo punto di vista nel luogo dove avviene l'osservazione
+
+![Figura5](../../Utils/Risorse/6.png)
+
 # Il sistema di coordinate Altazimutali
 
 Teniamo presente come si muove un cavalletto fotografico. In alto e in basso. A destra e a sinistra.
@@ -112,9 +116,6 @@ Le coordinate sono
 In questa immagine vediamo la sfera celeste in prospettiva della Terra. 
 L'angolo che si forma tra l'eclittica e l'equatore celeste  è di 23, 5° ed è uno degli elementi fondamentali alla vita.
 
-Ora proiettiamo questo punto di vista nel luogo dove avviene l'osservazione
-
-![Figura5](../../Utils/Risorse/6.png)
 
 Quindi se proiettiamo 
 

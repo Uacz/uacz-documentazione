@@ -13,6 +13,35 @@
 - Queste scale sono particolarmente utili su telescopi manuali per trovare oggetti deboli senza la necessità di strumenti elettronici.
     
 
+# Ora Siderale Locale
+
+Per trovare l'ora siderale locale (TSL) per la tua longitudine puoi seguire questi passi pratici:
+
+## Metodo rapido
+
+1. **Trova il tempo siderale a Greenwich (TSG)**
+    
+    - Si può ricavare da tabelle astronomiche, software planetari o calcolatori online inserendo data e ora UTC.
+        
+2. **Calcola la correzione per la tua longitudine**
+    
+    - La correzione è: $λ/15$, dove $λ$ è la tua longitudine in gradi (positiva se est di Greenwich, negativa se ovest).
+        
+3. **Somma o sottrai la correzione**
+    
+    - Formula:
+        
+        $$TSL=TSG+\frac{λ}{15}$$
+    - Se la longitudine è est, la sommi; se ovest, la sottrai.
+        
+
+## Esempio
+
+- Sei a Catanzaro (longitudine ≈ 16,6° est).
+    
+- Correzione in ore: 16,6/15=1,11 ore (circa 1 ora e 7 minuti).
+    
+- Se il TSG è 12:00, la TSL è 18:00+1:07=19:07
 ## Guida Sintetica Passo Passo
 
 -- [[Meridiano]] 
