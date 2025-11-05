@@ -1,0 +1,19 @@
+---
+title: Untitled
+date: 2025-11-05
+tags: [note]
+status: draft
+---
+
+# Untitled
+
+## 🗓️ Informazioni
+- **Data creazione:** 2025-11-05 17:41
+- **Ultima modifica:** 2025-11-05 17:41
+- **Autore:** [[Procopio Paolo]]
+
+---
+https://docs.google.com/presentation/d/16fFhYJOOmYjk19g_JCPd70yoQ6zQ5SfM/edit?usp=drive_link&ouid=115867772199434012091&rtpof=true&sd=true
+
+
+[PDF](https://github.com/Uacz/uacz-documentazione/blob/main/Utils/Risorse/pdf/Lezione%20archeoastronomia.pdf)
