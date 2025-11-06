@@ -246,3 +246,4 @@ La magnitudine limite è la magnitudine apparente dell'oggetto più tenue visibi
 
 
 
+https://www.youtube.com/watch?v=IBDcWy7VtUo

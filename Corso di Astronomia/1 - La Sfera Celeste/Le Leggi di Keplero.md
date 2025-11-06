@@ -14,7 +14,7 @@ status: draft
 
 
 ---
-https://drive.google.com/file/d/1yYbgAdaqj-SRWIFryU4bN90prArnFWvv/view?usp=drive_link
+https://drive.google.com/file/d/1AV7Qh9CFfgZ4sVHLSCoCHaRIYYu6oBVI/view?usp=drive_link
 
 [PDF](https://github.com/Uacz/uacz-documentazione/blob/main/Utils/Risorse/pdf/Keplero%20come%20si%20muovono%20i%20pianeti.pdf)
 
