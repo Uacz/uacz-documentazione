@@ -1,0 +1,19 @@
+---
+title: Untitled
+date: 2025-11-05
+tags: [note]
+status: draft
+---
+
+# Untitled
+
+## 🗓️ Informazioni
+- **Data creazione:** 2025-11-05 17:41
+- **Ultima modifica:** 2025-11-05 17:41
+- **Autore:** [[Procopio Paolo]]
+
+---
+https://drive.google.com/file/d/1H8RNfKKL8_HwHl4Jd4snvQydIk4QsUZu/view?usp=drive_link
+
+
+[PDF](https://github.com/Uacz/uacz-documentazione/blob/main/Utils/Risorse/pdf/FILOSOFIA%20E%20ASTRONOMIA.pdf)
