@@ -64,3 +64,7 @@ Per trovare l'ora siderale locale (TSL) per la tua longitudine puoi seguire ques
 | **10. Test (facoltativo)** | Ruota in Dec fino a 0° → dovresti puntare verso l’**equatore celeste** (Dec=0°). | Ad esempio, la stella Mintaka (una delle tre del Cinturone di Orione) ha Dec ≈ 0°.                                                       |
 
 quando LST = 10h, sul **tuo meridiano locale** passa l’oggetto con **AR = 10h**.
+
+
+
+[[Nota per alcuni tipi di montatura equatoriale]]
