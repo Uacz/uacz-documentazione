@@ -1,5 +1,6 @@
-- [[La misura delle distanze]]
-- [[Luminosità apparente e assoluta]]
+- [[2.1 Le Leggi di Keplero]]
+- [[2.2 La misura delle distanze]]
+- [[2.3 Luminosità apparente e assoluta]]
 - La natura ondulatoria della luce (D)
 - Lo spettro elettromagnetico (D)
 - Radiazione di corpo nero(D)

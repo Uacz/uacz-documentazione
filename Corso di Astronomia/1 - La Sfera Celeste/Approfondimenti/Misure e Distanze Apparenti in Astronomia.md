@@ -1,5 +1,5 @@
 
-![Figura9](../../Utils/Risorse/9.png)
+![Figura3](../../../Utils/Risorse/9.png)
 
 Portare la mano alla distanza massima davanti al proprio viso, stendendo il braccio, e utilizzando le proprie dita per determinare in modo approssimativo alcune distanze.
 

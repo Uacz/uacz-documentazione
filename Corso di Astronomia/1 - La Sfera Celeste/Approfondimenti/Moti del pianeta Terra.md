@@ -48,7 +48,7 @@ status: draft
         
     - **Forza di Coriolis** (influenza su venti e correnti).
         
-![Figura10](../../Utils/Risorse/10.png)
+![Figura3](../../../Utils/Risorse/10.png)
 ---
 
 ## Moto di Rivoluzione
@@ -69,7 +69,7 @@ status: draft
         
     - **Diversa altezza del Sole sull’orizzonte** nel corso dell’anno.
         
-![Figura11](../../Utils/Risorse/11.png)
+![Figura3](../../../Utils/Risorse/11.png)
 ---
 
 ##  Moto di Precessione degli Equinozi
@@ -88,7 +88,7 @@ status: draft
         
 
 ---
-![Figura12](../../Utils/Risorse/12.png)
+![Figura3](../../../Utils/Risorse/12.png)
 
 ##  4. **Moto di Nutazione**
 

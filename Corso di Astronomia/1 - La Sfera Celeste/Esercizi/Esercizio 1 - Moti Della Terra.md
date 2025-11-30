@@ -1,5 +1,5 @@
-![Figura13](../../Utils/Risorse/13.jpeg)
 
+![Figura3](../../../Utils/Risorse/13.jpeg)
 Assumiamo che la Terra ruoti attorno al Sole utilizzando un'orbita circolare quindi un giro di 360°.
 
 L'anno di rivoluzione ha una durata di 365,26 giorni (anno siderale). Perciò, a occhio e croce, ogni giorno la Terra si sposta di un grado lungo la sua traiettoria.

@@ -1,0 +1,85 @@
+
+### Come viene calcolata la scala di magnitudine apparente?
+
+Sappiamo che una stella di magnitudine 1 è più luminosa di una stella di magnitudine 2. Ma di quanto più luminosa?
+
+La scala di magnitudine è logaritmica, dove una differenza di 5 magnitudini corrisponde sempre a un cambiamento di luminosità di un fattore di 100. Ciò significa che una stella di magnitudine 1 è 100 volte più luminosa di una stella di magnitudine 6, e analogamente, una stella di magnitudine 2 è 100 volte più luminosa di una stella di magnitudine 7.
+
+![Figura3](../../../Utils/Risorse/magnitudine2.png)
+Una mappa tipica delle costellazioni. In basso a sinistra, puoi vedere una scala delle magnitudini da uno a sei. Una stella di magnitudine uno è 100 volte più luminosa di una stella di magnitudine sei.
+
+
+---
+
+## **1. Il fattore di luminosità tra magnitudini**
+
+Per definizione, **una differenza di 5 magnitudini corrisponde a un fattore 100 di luminosità**.  
+Perciò, il fattore di luminosità associato a **1 magnitudine** è:
+
+$1001/5≈2.5118864315≈2.512$
+
+Spesso viene approssimato a **2,5** per semplicità, ma il valore reale è **2,512**.
+
+Da questo valore derivano i fattori per 2, 3, 4 e 5 magnitudini:
+
+- **1 magnitudine** → 2,512
+    
+- **2 magnitudini** → 2.5122≈6.31
+    
+- **3 magnitudini** → 2.5123≈15.85
+    
+- **4 magnitudini** → 2.5124≈39.81
+    
+- **5 magnitudini** → 2.5125≈100
+    
+
+➡️ Ogni salto di magnitudine si **compone** col precedente (non si somma: si moltiplica).
+
+---
+
+## **2. Esempio introduttivo**
+
+Se una stella ha magnitudine **1** e un’altra **3**, la differenza è:
+
+$$3−1=2$$
+
+Quindi la stella di magnitudine 3 appare:
+
+$$2.512^2 \approx 6.31$$
+
+volte **meno luminosa** della stella di magnitudine 1.
+
+---
+
+## **3. Confronto tra Luna Piena e Venere**
+
+Usiamo magnitudini tipiche:
+
+- **Luna Piena**: –12.7
+    
+- **Venere**: –4.6
+    
+
+La differenza di magnitudine è:
+
+$$−4.6−(−12.7)=8.1$$
+
+Per sapere quanto è più luminosa la Luna, usiamo il fattore 2.512:
+
+$$2.512^{8.1} \approx 1700$$
+
+➡️ **La Luna Piena è circa 1.700 volte più luminosa di Venere.**
+
+---
+
+## **4. Formula generale della scala delle magnitudini**
+
+Per confrontare le luminosità apparenti di due oggetti A e B:
+
+$$\frac{I_A}{I_B} = 2.512^{(m_B - m_A)}$$
+
+dove
+
+- $IA,IB$ = intensità (o luminosità apparente),
+    
+- $mA,mB$​ = magnitudini apparenti.

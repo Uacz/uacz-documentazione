@@ -1,5 +1,6 @@
 
-![Figura1](../../Utils/Risorse/noteMontatura1.png)
+
+![Figura3](../../../Utils/Risorse/noteMontatura1.png)
 
 Il punto 1 è  il riferimento principale che viene usato per impostare la scala dell'ascensione retta (R.A. dial) 
 

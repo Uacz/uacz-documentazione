@@ -1,7 +1,9 @@
-![Figura1](../../Utils/Risorse/Esercizio2_1.png)
+
+![Figura3](../../../Utils/Risorse/Esercizio2_1.png)
 
 
-![Figura2](../../Utils/Risorse/Esercizio2_2.png)
+
+![Figura3](../../../Utils/Risorse/Esercizio2_2.png)
 
 
 ## Funzionamento e Utilizzo Pratico
@@ -47,7 +49,7 @@ Per trovare l'ora siderale locale (TSL) per la tua longitudine puoi seguire ques
 -- [[Meridiano]] 
 -- [[Meridiano Locale]]
 
-![Figura1](../../Utils/Risorse/Esercizio2_3.png)
+![Figura3](../../../Utils/Risorse/Esercizio2_3.png)
 
 | Passo                      | Azione                                                                           | Risultato                                                                                                                                |
 | -------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
