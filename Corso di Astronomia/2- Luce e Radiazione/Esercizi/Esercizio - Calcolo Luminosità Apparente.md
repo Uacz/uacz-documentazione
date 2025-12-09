@@ -16,7 +16,7 @@ Una mappa tipica delle costellazioni. In basso a sinistra, puoi vedere una scala
 Per definizione, **una differenza di 5 magnitudini corrisponde a un fattore 100 di luminosità**.  
 Perciò, il fattore di luminosità associato a **1 magnitudine** è:
 
-$1001/5≈2.5118864315≈2.512$
+$100^{1/5}≈2.5118864315≈2.512$
 
 Spesso viene approssimato a **2,5** per semplicità, ma il valore reale è **2,512**.
 
@@ -33,7 +33,7 @@ Da questo valore derivano i fattori per 2, 3, 4 e 5 magnitudini:
 - **5 magnitudini** → 2.5125≈100
     
 
-➡️ Ogni salto di magnitudine si **compone** col precedente (non si somma: si moltiplica).
+Ogni salto di magnitudine si **compone** col precedente (non si somma: si moltiplica).
 
 ---
 
@@ -68,7 +68,7 @@ Per sapere quanto è più luminosa la Luna, usiamo il fattore 2.512:
 
 $$2.512^{8.1} \approx 1700$$
 
-➡️ **La Luna Piena è circa 1.700 volte più luminosa di Venere.**
+**La Luna Piena è circa 1.700 volte più luminosa di Venere.**
 
 ---
 
@@ -83,3 +83,99 @@ dove
 - $IA,IB$ = intensità (o luminosità apparente),
     
 - $mA,mB$​ = magnitudini apparenti.
+
+
+
+
+
+
+
+
+
+
+ Derivazione completa del fattore di luminosità dalla formula di Pogson
+
+
+## 1. Formula di Pogson
+
+La relazione tra magnitudine e flusso luminoso è:
+
+$$m_2 - m_1 = -2.5 \log_{10}\left(\frac{F_2}{F_1}\right)$$
+
+---
+
+## 2. Ricaviamo il rapporto di luminosità
+
+Partendo da:
+
+$$m_2 - m_1 = -2.5 \log_{10}\left(\frac{F_2}{F_1}\right)
+$$
+Isoliamo il logaritmo:
+
+$$\log_{10}\left(\frac{F_2}{F_1}\right) = -\frac{m_2 - m_1}{2.5}
+$$
+Applichiamo l'esponenziale:
+
+$$2.5\frac{F_2}{F_1} = 10^{-\frac{m_2 - m_1}{2.5}}$$
+
+Con:
+
+Δm=m2−m1
+
+la formula generale diventa:
+
+$$\frac{F_2}{F_1} = 10^{-0.4\,\Delta m}$$
+
+---
+
+## 3. Fattore luminoso per 1 magnitudine
+
+Per una differenza di 1 magnitudine:
+
+Δm=1
+
+Allora:
+
+$$\frac{F_2}{F_1} = 10^{-0.4}$$
+
+Il **fattore per cui l'oggetto più luminoso è più brillante** è il reciproco:
+
+$$R_1 = 10^{0.4} = 2.5118864315 \approx 2.512$$
+
+---
+
+## 4. Da Pogson: 5 magnitudini = fattore 100
+
+Per definizione:
+
+$$R_5 = 100$$
+
+Poiché i fattori si **moltiplicano**:
+
+$$R_1^5 = 100$$
+
+Ricaviamo il fattore per 1 magnitudine:
+
+$$R_1 = 100^{1/5}$$
+
+Poiché:
+
+$$100 = 10^2$$
+
+abbiamo:
+
+$$R_1 = (10^2)^{1/5} = 10^{2/5}$$
+
+e poiché:
+
+$$\frac{2}{5} = 0.4$$
+
+segue:
+
+$$R_1 = 10^{0.4} \approx 2.512$$
+
+---
+
+
+
+

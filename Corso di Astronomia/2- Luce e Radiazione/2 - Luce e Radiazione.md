@@ -1,8 +1,9 @@
-- [[2.1 Le Leggi di Keplero]]
-- [[2.2 La misura delle distanze]]
-- [[2.3 Luminosità apparente e assoluta]]
-- La natura ondulatoria della luce (D)
-- Lo spettro elettromagnetico (D)
-- Radiazione di corpo nero(D)
+- 2.1 Filosofia e Astronomia: Pitagora, Keplero e Newton
+- [[2.2 Le Leggi di Keplero]]
+- 2.3 La natura ondulatoria della luce (D)
+- 2.4 Lo spettro elettromagnetico (D)
+- 2.5 Radiazione di corpo nero(D)
+- [[2.6 Luminosità apparente e assoluta]]
+- [[2.7 La misura delle distanze]]
 - Esercizi di Calcolo
 - ESPERIENZA PRATICA: laboratorio della luce
