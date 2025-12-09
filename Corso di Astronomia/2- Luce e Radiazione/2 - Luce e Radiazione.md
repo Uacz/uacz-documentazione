@@ -3,7 +3,7 @@
 - 2.3 La natura ondulatoria della luce (D)
 - 2.4 Lo spettro elettromagnetico (D)
 - 2.5 Radiazione di corpo nero(D)
-- [[2.6 Luminosità apparente e assoluta]]
+- [[2.6 Magnitudine apparente e assoluta]]
 - [[2.7 La misura delle distanze]]
 - Esercizi di Calcolo
 - ESPERIENZA PRATICA: laboratorio della luce
