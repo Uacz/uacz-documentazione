@@ -15,8 +15,15 @@ dove d è la distanza in parsec.
 
 ## Calcolo
 
-$$d=10m−M+55=100.01−4.38+55=100.2673≈1.34 parsec$$
+m−M+5=5log10​(d) 
+$\frac{m - M + 5}{5} = \log_{10}(d)$
+$d = 10^{\frac{m - M + 5}{5}}$
 
+inseriamo i valori
+
+m−M=0.01−4.38=−4.37 
+$\frac{-4.37 + 5}{5} = \frac{0.63}{5} = 0.1265$
+$d=100.126≈1.34 parsec$
 ## Conversione della distanza
 
 | Unità                  | Valore     |
