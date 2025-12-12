@@ -1,4 +1,4 @@
-- 2.1 Filosofia e Astronomia: Pitagora, Keplero e Newton
+- 2.1 Filosofia e Astronomia: Pitagora, Galileo e Newton
 - [[2.2 Le Leggi di Keplero]]
 - 2.3 La natura ondulatoria della luce (D)
 - 2.4 Lo spettro elettromagnetico (D)
