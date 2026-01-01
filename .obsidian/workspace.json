@@ -4,38 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "a86484992c7b2deb",
+        "id": "ed21c24c98786cac",
         "type": "tabs",
         "children": [
           {
-            "id": "d28bc3ab5c6f72b3",
+            "id": "b69a3957e7f745ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corso di Astronomia/1 - La Sfera Celeste/1.1 Filosofia e Astronomia.md",
+                "file": "Corso di Astronomia/3 - Telescopi/3 - Telescopi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Filosofia e Astronomia"
+              "title": "3 - Telescopi"
             }
           },
           {
-            "id": "efd0a2aa54ce64d9",
+            "id": "6377648719b08ef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corso di Astronomia/2- Luce e Radiazione/Esercizi/Esercizio - Calcolo Luminosità Apparente.md",
+                "file": "Corso di Astronomia/3 - Telescopi/3 - Telescopi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esercizio - Calcolo Luminosità Apparente"
+              "title": "3 - Telescopi"
+            }
+          },
+          {
+            "id": "e24fa45f626cc5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corso di Astronomia/3 - Telescopi/3 - Telescopi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 - Telescopi"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5
+    "width": 320.501522064209
   },
   "right": {
     "id": "af6dd79c6aef51e2",
@@ -196,51 +211,52 @@
   },
   "active": "6138cf5d14998c95",
   "lastOpenFiles": [
-    "Corso di Astronomia/2- Luce e Radiazione/2.6 Luminosità apparente e assoluta.md",
-    "Utils/Risorse/pogson.png",
-    "Utils/Risorse/flusso.png",
-    "Corso di Astronomia/2- Luce e Radiazione/Esercizi/Esercizio - Calcolo Luminosità Apparente.md",
-    "Corso di Astronomia/2- Luce e Radiazione/2 - Luce e Radiazione.md",
-    "Corso di Astronomia/2- Luce e Radiazione/2.7 La misura delle distanze.md",
-    "Corso di Astronomia/2- Luce e Radiazione/2.2 Le Leggi di Keplero.md",
-    "Corso di Astronomia/2- Luce e Radiazione/Esercizi/Esercizio - Calcolo della distanza di Alfa Centauri A da magnitudine.md",
-    "Corso di Astronomia/Programma lezioni.md",
-    "Corso di Astronomia/2- Luce e Radiazione/Approfondimenti/Corpo Nero.md",
-    "Corso di Astronomia/Scopi del corso.md",
-    "Utils/Risorse/mindMap.png",
-    "Utils/Risorse/HRdigram.png",
-    "Utils/Risorse/gammespettrali.gif",
-    "Utils/gammespettrali.gif",
-    "Corso di Astronomia/1 - La Sfera Celeste/Riassunto/Riassunto L'Astrometria e i Sistemi di Coordinate Celesti.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/1 - La Sfera Celeste.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Esercizi/Esercizio 2 - Cerchi Graduati sulla Montatura Equatoriale.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Esercizi/Esercizio 1 - Moti Della Terra.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Articolo/0 Bozza Articolo.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Approfondimenti/Processioni degli Equinozi.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Approfondimenti/Nota per alcuni tipi di montatura equatoriale.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Approfondimenti/Moti del pianeta Terra.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Approfondimenti/Misure e Distanze Apparenti in Astronomia.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Approfondimenti/Meridiano Locale.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Approfondimenti/Meridiano.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Approfondimenti/Giorno solare.md",
-    "Corso di Astronomia/1 - La Sfera Celeste/Approfondimenti/Giorno Siderale.md",
-    "Utils/Risorse/magassoultavsapparente.jpg",
-    "Utils/Risorse/spettro_new.gif",
-    "Utils/Risorse/mindMapmagnitudini.png",
-    "Corso di Astronomia/1 - La Sfera Celeste/1.3 Coordinate Altazimutali ed Equatoriali.md",
+    "Corso di Astronomia/3 - Telescopi/Riflettori e Rifrattori.md",
+    "Corso di Astronomia/3 - Telescopi/Radioastronomia.md",
     "Corso di Astronomia/3 - Telescopi/3 - Telescopi.md",
+    "Utils/Risorse/pdf/3_Telescopi.pdf",
+    "Spettroscopia/Concetti Base/Dispersione.md",
+    "Spettroscopia/Concetti Base/Risoluzione.md",
+    "Corso di Astronomia/1 - La Sfera Celeste/1 - La Sfera Celeste.md",
+    "Corso di Astronomia/1 - La Sfera Celeste/1.1 Filosofia e Astronomia.md",
+    "Corso di Astronomia/1 - La Sfera Celeste/1.2 Archeoastronomia.md",
+    "Corso di Astronomia/1 - La Sfera Celeste/1.3 Coordinate Altazimutali ed Equatoriali.md",
+    "Corso di Astronomia/3 - Telescopi/Campionamento.md",
+    "Spettroscopia/Sol'Ex-Star'Ex.md",
+    "Spettroscopia/Concetti Base/Teorema di Nyquist.md",
+    "Spettroscopia/Concetti Base/Campionamento.md",
+    "Laboratorio per Bambini/Laboratorio Solare/0 INDICE Laboratorio Solare.md",
+    "Spettroscopia/Concetti Base",
+    "Spettroscopia",
+    "Laboratorio per Bambini/Laboratorio Solare/Percorrenza di un fotone dal nucleo alla fotosfera.md",
+    "Laboratorio per Bambini/Laboratorio Solare/Struttura del Sole.md",
+    "Laboratorio per Bambini/Laboratorio Solare/8 Il Sole è una stella.md",
+    "Laboratorio per Bambini/Laboratorio Solare/9 Fotosfera, cromosfera e corona.md",
+    "Laboratorio per Bambini/Laboratorio Solare/10 Le macchie solari.md",
+    "Laboratorio per Bambini/Laboratorio Solare/7 Le stagioni spiegate con il Sole.md",
+    "Laboratorio per Bambini/Laboratorio Solare/6 Inclinazione dell'asse terrestre.md",
+    "Laboratorio per Bambini/Laboratorio Solare/5 Moto Di Rivoluzione.md",
+    "Laboratorio per Bambini/Laboratorio Solare/4.1 Moti Rotazione Pianeti.md",
+    "Laboratorio per Bambini/Laboratorio Solare/4 Moto di Rotazione.md",
+    "Laboratorio per Bambini/Laboratorio Solare/3 I Pianeti.md",
+    "Laboratorio per Bambini/Laboratorio Solare/2 Struttura del Sistema Solare.md",
+    "Utils/Risorse/IMG_0146.jpg",
+    "Utils/Risorse/terzaleggekeplero.png",
+    "Utils/Risorse/secondaleggekeplero.png",
+    "Utils/Risorse/primaleggekeplerostagioni.png",
+    "Utils/Risorse/primaleggekeplero.png",
+    "Utils/Risorse/macchiesolari.png",
+    "mac.png",
+    "Utils/Risorse/reazionefusione.png",
+    "Utils/Risorse/internistelle.png",
+    "Utils/Risorse/posizionesole.png",
+    "Laboratorio per Bambini/Laboratorio Solare",
+    "Utils/Risorse/pdf/Lezione archeoastronomia.pdf",
+    "Utils/Risorse/pdf/Keplero come si muovono i pianeti.pdf",
+    "Utils/Risorse/pdf/FILOSOFIA E ASTRONOMIA.pdf",
     "Corso di Astronomia/2- Luce e Radiazione/Riassunto",
     "Corso di Astronomia/2- Luce e Radiazione/Esercizi",
     "Corso di Astronomia/2- Luce e Radiazione/Articolo",
-    "Corso di Astronomia/2- Luce e Radiazione/Articolo.md",
-    "Corso di Astronomia/2- Luce e Radiazione/Approfondimenti",
-    "Corso di Astronomia/1 - La Sfera Celeste/Riassunto",
-    "Corso di Astronomia/1 - La Sfera Celeste/Approfondimenti",
-    "Corso di Astronomia/1 - La Sfera Celeste/Articolo",
-    "Corso di Astronomia/1 - La Sfera Celeste/Esercizi",
-    "Utils/Risorse/mw.png",
-    "Utils/Risorse/pdf/FILOSOFIA E ASTRONOMIA.pdf",
-    "Utils/Risorse/pdf/Lezione archeoastronomia.pdf",
     "Untitled.canvas"
   ]
 }

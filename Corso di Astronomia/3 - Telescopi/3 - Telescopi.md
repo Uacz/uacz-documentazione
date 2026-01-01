@@ -1,7 +1,6 @@
-- Riflettori e Rifrattori
-- Il piano focale e la risoluzione
-- La luminosità di una immagine e le aberrazioni
-- Campionamento
-- Radiotelescopi
-- Esercizi di Calcolo
+- [[Riflettori e Rifrattori]]
+- ESPERIENZA: Il piano focale 
+- [[Riflettori e Rifrattori#3. Capire le Aberrazioni]]
+- [[Campionamento]]
+- [[Radioastronomia]]
 - ESPERIENZA PRATICA: Stazionamento di un telescopio (D)
