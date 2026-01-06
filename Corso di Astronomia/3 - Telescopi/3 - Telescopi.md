@@ -1,6 +1,6 @@
-- [[Riflettori e Rifrattori]]
+- [[3.1 Lezione sui Telescopi]]
 - ESPERIENZA: Il piano focale 
-- [[Riflettori e Rifrattori#3. Capire le Aberrazioni]]
+- [[3.1 Lezione sui Telescopi#3. Capire le Aberrazioni]]
 - [[Campionamento]]
 - [[Radioastronomia]]
 - ESPERIENZA PRATICA: Stazionamento di un telescopio (D)

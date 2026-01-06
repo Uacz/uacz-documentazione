@@ -1,3 +1,5 @@
+
+
 Questo esercizio mostra come, partendo dalle magnitudini, si possa stimare la distanza di una stella reale usando la formula del modulo di distanza e convertendo poi in unità di misura astronomiche più familiari.
 
 ## Dati noti
