@@ -13,7 +13,7 @@ Tuttavia, se posizionassimo sia il Sole che Rigel a ==10 parsec dalla Terra==, R
 A 10 PARSEC
 SOLE  --> 4,83
 RIGEL --> -7,8
-
+![Figura3](../../../Utils/Risorse/magnitudine1.png)
 Ecco alcuni altri esempi:
 
 - **Alpha Centauri**: M = 4,8
