@@ -35,7 +35,6 @@ In base allo strumento:
 - filamenti,
 - regioni attive.
 
-## Messaggio da ripetere al gruppo
 
 > Con il Sole la sicurezza viene prima dell’osservazione.
 

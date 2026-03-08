@@ -34,6 +34,8 @@ In realtà non è affatto uniforme:
 - lancia materia nello spazio,
 - attraversa periodi di maggiore e minore attività.
 
+![Figura1](../../Utils/Risorse/sun.jpeg)
+
 ## Le 4 idee base da ricordare
 
 ### 1. Il Sole produce energia nel suo interno
@@ -41,6 +43,7 @@ Nel nucleo, l’idrogeno viene trasformato in elio. Questa è la sorgente di ene
 
 ### 2. L’energia impiega tantissimo tempo a uscire
 L’energia prodotta all’interno non arriva subito fuori: attraversa strati differenti del Sole prima di emergere.
+
 
 ### 3. La parte visibile è solo uno “strato”
 Quello che chiamiamo “superficie” è in realtà la **fotosfera**, cioè lo strato da cui ci arriva la maggior parte della luce visibile.

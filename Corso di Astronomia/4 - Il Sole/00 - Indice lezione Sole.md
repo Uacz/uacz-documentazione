@@ -15,7 +15,6 @@ Questa raccolta contiene note pensate per una **lezione introduttiva sul Sole** 
 4. [[04 - Attività solare e ciclo]]
 5. [[05 - Sole e Terra]]
 6. [[06 - Osservare il Sole in sicurezza]]
-7. [[07 - Scaletta lezione Sole]]
 
 ## Obiettivo della lezione
 
@@ -33,11 +32,3 @@ Per chi inizia, il Sole si può immaginare così:
 - **in superficie** vediamo la luce,
 - **sopra la superficie** si sviluppano fenomeni molto dinamici,
 - **nello spazio** invia particelle e campo magnetico.
-
-## Nota didattica
-
-Queste note evitano quasi del tutto la matematica e usano:
-- esempi concreti,
-- paragoni intuitivi,
-- domande da fare al pubblico,
-- termini tecnici ridotti al minimo.

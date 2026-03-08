@@ -10,4 +10,4 @@ le macchie si osservano **solo con strumenti sicuri**.
 
 
 
-![[macchiesolari.png]]
+![[Utils/Risorse/macchiesolari.png]]
