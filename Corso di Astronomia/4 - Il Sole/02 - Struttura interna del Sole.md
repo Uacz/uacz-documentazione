@@ -24,22 +24,13 @@ Qui:
 > [!important] Idea chiave
 > Il Sole splende perché nel suo interno avvengono reazioni nucleari.
 
-Puoi dire che nel nucleo gli atomi di idrogeno vengono “spinti” a unirsi e il risultato finale è la formazione di elio con liberazione di energia.
-
-### Immagine mentale utile
-Pensa al nucleo come alla **centrale energetica** del Sole.
+Nel nucleo gli atomi di idrogeno vengono “spinti” a unirsi e il risultato finale è la formazione di elio con liberazione di energia.
 
 ## 2. Zona radiativa
 
 Dopo il nucleo, l’energia attraversa la **zona radiativa**.
 
 Qui l’energia si sposta soprattutto sotto forma di radiazione.
-
-### Come spiegarlo in modo intuitivo
-I fotoni non fanno un viaggio diretto verso l’esterno. È più simile a un percorso lentissimo, pieno di urti e deviazioni.
-
-> [!note]
-> Per un pubblico alle prime armi non serve entrare nei dettagli fisici: basta dire che l’energia rimbalza continuamente nella materia solare.
 
 ## 3. Zona convettiva
 
@@ -52,7 +43,6 @@ Qui il gas caldo:
 
 È un movimento simile a quello dell’acqua che bolle in una pentola.
 
-### Paragone utile
 - il **gas caldo che sale** = acqua calda che sale,
 - il **gas più freddo che scende** = acqua che ridiscende.
 
@@ -74,7 +64,7 @@ L’energia del Sole nasce nel **nucleo**, nella regione più interna, e poi dev
 
 ![Figura1](../../Utils/Risorse/sun-interni.png)
 
-Nella **zona radiativa** l’energia si sposta soprattutto sotto forma di radiazione, ma non come un raggio laser che corre dritto verso l’esterno. I fotoni vengono continuamente **assorbiti e riemessi** (o diffusi) dal plasma, cambiando direzione di continuo: è il cosiddetto **random walk**, cioè un “cammino a zig-zag”. Per questo motivo la loro avanzata verso l’esterno è lentissima. Il PDF che mi hai allegato spiega anche che la convezione comincia solo più fuori, quando la radiazione non riesce più a trasportare energia in modo efficiente.
+Nella **zona radiativa** l’energia si sposta soprattutto sotto forma di radiazione, ma non come un raggio laser che corre dritto verso l’esterno. I fotoni vengono continuamente **assorbiti e riemessi** (o diffusi) dal plasma, cambiando direzione di continuo: è il cosiddetto **random walk**, cioè un “cammino a zig-zag”. Per questo motivo la loro avanzata verso l’esterno è lentissima. La convezione comincia solo più fuori, quando la radiazione non riesce più a trasportare energia in modo efficiente.
 
 ![Figura1](../../Utils/Risorse/randomwalk.png)
 

@@ -44,20 +44,10 @@ Nel nucleo, l’idrogeno viene trasformato in elio. Questa è la sorgente di ene
 ### 2. L’energia impiega tantissimo tempo a uscire
 L’energia prodotta all’interno non arriva subito fuori: attraversa strati differenti del Sole prima di emergere.
 
-
 ### 3. La parte visibile è solo uno “strato”
 Quello che chiamiamo “superficie” è in realtà la **fotosfera**, cioè lo strato da cui ci arriva la maggior parte della luce visibile.
 
 ### 4. Il Sole è magneticamente attivo
 Macchie solari, brillamenti e altre strutture dipendono soprattutto dal suo campo magnetico.
 
-## Frase pronta da dire durante la lezione
-
 > Il Sole ci sembra semplice solo perché lo vediamo come un disco accecante. In realtà è una stella complessa, dinamica e in continuo cambiamento.
-
-## Domande facili per il pubblico
-
-- Il Sole è una stella come le altre oppure è qualcosa di diverso?
-- Quello che vediamo è davvero una superficie solida?
-- Perché a volte compaiono le macchie solari?
-- In che modo il Sole influenza la Terra?

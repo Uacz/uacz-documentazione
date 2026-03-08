@@ -44,24 +44,6 @@ Per una lezione divulgativa, puoi riassumerlo così:
 - correnti indotte su reti elettriche e pipeline;    
 - maggiore esposizione alle radiazioni per astronauti e, in certi casi, aviazione. ([noaa.gov](https://www.noaa.gov/space-weather-impacts?utm_source=chatgpt.com "Space Weather Impacts"))    
 
-## Il vento solare
-
-Il Sole emette continuamente un flusso di particelle chiamato **vento solare**.
-Non pensarlo come il vento terrestre.
-È più corretto immaginarlo come un flusso di particelle che si allontana dal Sole e riempie lo spazio interplanetario.
-
-## Effetti sulla Terra
-
-### Aurore
-Quando particelle provenienti dal Sole interagiscono con il campo magnetico terrestre e con l’alta atmosfera, possono produrre le **aurore**.
-
-### Disturbi tecnologici
-Durante eventi solari intensi possono verificarsi effetti su:
-- comunicazioni radio,
-- satelliti,
-- navigazione,
-- reti elettriche.
-
 ## Perché gli astrofili dovrebbero interessarsene
 
 Perché il Sole non è importante solo come oggetto astronomico, ma anche come:
@@ -76,8 +58,6 @@ Le code delle comete ci mostrano in modo spettacolare l’azione del Sole:
 - la coda ionica è più diritta e punta lontano dal Sole.
 
 Questo aiuta a capire che il Sole non emette solo luce, ma influenza anche lo spazio circostante.
-
-## Frase pronta da usare
 
 > Il Sole non finisce dove termina il suo disco visibile: la sua influenza si estende ben oltre, fino a investire l’intero Sistema Solare.
 
