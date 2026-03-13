@@ -28,13 +28,13 @@ Il fenomeno della comparsa di macchie sulla fotosfera solare ha carattere di per
 
 Le macchie solari rappresentano dettagli ben identificabili sulla fotosfera, seguendo i quali nel tempo si ha l'evidenza della rotazione del Sole intorno ad un asse polare.
 
-Il Sole non ruota come un corpo solido, ma il periodo di rotazione aumenta andando verso i poli (rotazione differenziale). Esso è di circa 32 giorni in vicinanza dei poli e di circa 27 giorni in vicinanza dell'equatore solare.
+Il Sole non ruota come un corpo solido, ma il periodo di rotazione aumenta andando verso i poli (rotazione differenziale). **Esso è di circa 32 giorni in vicinanza dei poli** e di circa **27 giorni in vicinanza dell'equatore solare**.
 
 Nei gruppi di macchie si distinguono una macchia di testa e una macchia di coda, nel senso della rotazione solare. Una tipica macchia solare è costituita da un'area grossolanamente circolare oscura, detta ombra, circondata da una zona grigiastra, detta penombra, con una caratteristica struttura radiale.
 
 Le macchie più grandi possono avere un diametro di alcune decine di migliaia di chilometri. Una grande macchia solare può quindi contenere comodamente al suo interno la Terra.
 
-Le osservazioni consentono di affermare che le macchie sono sedi di vere e proprie aree cicloniche, simili (ma su scala infinitamente più grande) a trombe d'aria, che succhiano il materiale dagli strati immediatamente inferiori della fotosfera e lo proiettano in alto con moto vorticoso, raffreddandolo. Un dato importante che riguarda le macchie è quello del forte campo magnetico associato ad esse, fino a qualche migliaio di gauss. I campi magnetici delle macchie di testa e delle macchie di coda hanno sempre polarità magnetica opposta.
+**Le osservazioni consentono di affermare che le macchie sono sedi di vere e proprie aree cicloniche, simili (ma su scala infinitamente più grande) a trombe d'aria**, che succhiano il materiale dagli strati immediatamente inferiori della fotosfera e lo proiettano in alto con moto vorticoso, raffreddandolo. Un dato importante che riguarda le macchie è quello del forte campo magnetico associato ad esse, fino a qualche migliaio di gauss. I campi magnetici delle macchie di testa e delle macchie di coda hanno sempre polarità magnetica opposta.
 
 ![Figura1](../../Utils/Risorse/macchiesolari1.png)
 Cortesia Coelum Astronomia.
@@ -57,12 +57,43 @@ Il numero di macchie solari cresce e diminuisce con una periodicità media di ci
 - **minimo solare** = poche macchie,
 - **massimo solare** = molte macchie e più attività.
 
-## In realtà c’è anche un ciclo magnetico di 22 anni
+## In realtà c’è anche un ciclo magnetico di 22 anni (Ciclo di Hale)
 
 Ogni 11 anni il Sole inverte la propria polarità magnetica globale.
 
 Per tornare alla configurazione iniziale servono quindi circa **22 anni**.
 
+Attualmente, ==il Sole si trova nella fase di **massimo del Ciclo Solare 25**==, un periodo di intensa attività magnetica iniziato nel 2020 e che ha raggiunto il suo picco tra la fine del 2024 e il 2025. 
+Ecco i punti chiave dell'attività solare odierna (aggiornati ai dati del 2025-2026):
+- **Massimo Solare:** L'attività solare è elevata, con un alto numero di macchie solari e brillamenti, in linea con le previsioni che indicavano un picco nel 2024-2025.
+- **Intensa Attività Magnetica:** Si osservano frequenti brillamenti di classe M e X (le più potenti), che indicano campi magnetici complessi e attivi, in particolare nell'emisfero sud.
+- **Tempeste Geomagnetiche:** L'elevata attività produce espulsioni di massa coronale (CME) che, dirette verso la Terra, causano tempeste geomagnetiche, talvolta in grado di generare aurore boreali a latitudini insolite.
+- **Inversione dei Poli:** Secondo i dati recenti, i poli magnetici del Sole si stanno invertendo, un fenomeno tipico del massimo solare in cui il campo magnetico si inverte ogni 11 anni circa.
+- **Ciclo più intenso del previsto:** Il Ciclo 25 si sta dimostrando più attivo di quanto ipotizzato inizialmente, portando a una maggiore frequenza di eventi intensi.
+
+# Ciclo di Gleissberg
+Il **ciclo di Gleissberg** è una **modulazione lenta dell’attività solare**: in pratica, l’ampiezza dei normali cicli solari di circa **11 anni** non resta sempre uguale, ma tende a crescere e diminuire su una scala di circa **70–100 anni**. È spesso chiamato anche **Wolf–Gleissberg cycle**. 
+
+
+- il ciclo “normale” del Sole è quello delle **macchie solari** che sale e scende ogni ~11 anni;
+    
+- il ciclo di Gleissberg è una specie di **inviluppo** di lungo periodo che rende alcuni cicli undecennali mediamente più intensi e altri più deboli. ([ResearchGate](https://www.researchgate.net/publication/267429165_The_solar_Wolf-Gleissberg_cycle_and_its_influence_on_the_earth?utm_source=chatgpt.com "(PDF) The solar Wolf-Gleissberg cycle and its influence on ..."))
+
+Non è però un “orologio” perfetto: diversi studi lo trattano come una **quasi-periodicità**, non come un periodo fisso esatto, e la sua evidenza dipende molto da come si analizzano le serie storiche di macchie solari e i proxy cosmogenici. ([NASA Technical Reports Server](https://ntrs.nasa.gov/api/citations/20040031767/downloads/20040031767.pdf?utm_source=chatgpt.com "FMS 2003- 19 1"))
+
+Quindi, in una formula molto schematica, potresti pensarlo così:
+
+$$
+A(t) \sim A_0 + A_1 \cos\left(\frac{2\pi t}{P_G}\right),  
+\qquad P_G \approx 80\text{–}100\ \text{anni}  
+$$
+
+dove ($A(t)$) rappresenta l’**ampiezza** del ciclo solare di 11 anni, modulata dal periodo lungo ($P_G$).
+
+Non va confuso con:
+
+- il **ciclo solare di 11 anni**;    
+- il **ciclo di Hale di 22 anni**, legato all’inversione completa del campo magnetico solare. ([Springer Nature Link](https://link.springer.com/article/10.12942/lrsp-2010-1?utm_source=chatgpt.com "The Solar Cycle | Living Reviews in Solar Physics"))
 
 ### Protuberanze
 Strutture di gas che seguono il campo magnetico e possono apparire come archi luminosi al bordo del Sole.
@@ -90,7 +121,6 @@ Sono grandi quantità di materia e campo magnetico che vengono lanciate nello sp
 
 > Il Sole è una stella magnetica: quando il suo campo magnetico si aggroviglia e si riorganizza, vediamo macchie, brillamenti e talvolta enormi espulsioni di materia.
 
-## Idee intuitive
 
 ### Il Sole come elastici intrecciati
 Immagina le linee di campo magnetico come elastici immersi nel gas solare:
@@ -99,7 +129,7 @@ Immagina le linee di campo magnetico come elastici immersi nel gas solare:
 - si intrecciano,
 - a volte si riconfigurano liberando energia.
 
-## Cose da ricordare bene
+## Elementi che generano questi fenomeni
 
 - il Sole ruota,
 - non ruota tutto alla stessa velocità,

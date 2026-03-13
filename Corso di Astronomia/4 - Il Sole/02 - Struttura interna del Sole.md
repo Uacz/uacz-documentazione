@@ -66,9 +66,9 @@ L’energia del Sole nasce nel **nucleo**, nella regione più interna, e poi dev
 
 Nella **zona radiativa** l’energia si sposta soprattutto sotto forma di radiazione, ma non come un raggio laser che corre dritto verso l’esterno. I fotoni vengono continuamente **assorbiti e riemessi** (o diffusi) dal plasma, cambiando direzione di continuo: è il cosiddetto **random walk**, cioè un “cammino a zig-zag”. Per questo motivo la loro avanzata verso l’esterno è lentissima. La convezione comincia solo più fuori, quando la radiazione non riesce più a trasportare energia in modo efficiente.
 
-![Figura1](../../Utils/Risorse/randomwalk.png)
 
-La **convezione** entra in gioco quando il gradiente di temperatura reale diventa più ripido di quello adiabatico. In forma semplice, il criterio è:
+
+La **convezione** entra in gioco quando il gradiente di temperatura reale diventa più ripido di quello adiabatico [[Gradiente adiabatico e reale]]. In forma semplice, il criterio è:
 
 $$  
 \left|\frac{dT}{dr}\right|_{\text{act}} >  
@@ -78,7 +78,7 @@ $$
 
 In parole povere: se la temperatura cala troppo rapidamente verso l’esterno, il gas caldo sotto diventa galleggiante, sale, e il gas più freddo scende. A quel punto l’energia non viene più trasportata soprattutto dai fotoni, ma dal **movimento del plasma stesso**.
 
-Se vuoi mostrare una **formula del trasporto convettivo** che sia corretta ma ancora leggibile, userei questa:
+**Formula del trasporto convettivo** che sia corretta ma ancora leggibile, userei questa:
 
 $$  
 F_{\text{conv}} \approx \rho, c_P, \langle v_r ,\Delta T \rangle  
@@ -102,6 +102,7 @@ $$
 
 cioè aumenta molto rapidamente appena il gradiente reale supera quello adiabatico. Questo spiega perché, nella maggior parte della zona convettiva solare, la convezione è estremamente efficiente.
 
+![Figura1](../../Utils/Risorse/randomwalk.png)
 ### Quanto tempo impiega davvero un fotone a uscire dal centro del Sole?
 
 Qui conviene essere molto preciso: **non è del tutto corretto immaginare “lo stesso fotone” che parte dal centro e arriva in superficie**, perché nel plasma solare i fotoni vengono continuamente assorbiti e riemessi. Quindi, più che del viaggio del “singolo fotone”, è meglio parlare del **tempo con cui l’energia riesce a diffondere verso l’esterno**.

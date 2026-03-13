@@ -30,7 +30,7 @@ Per dirlo in modo semplice a lezione:
 
 - **Fotosfera**: circa **5777 K** come **temperatura efficace** del Sole, cioè la temperatura del “disco visibile” nel suo insieme. Se guardi il gas della fotosfera in dettaglio, scende da circa **6500 K** alla base fino a circa **4400 K** nella parte alta.
    
-- **Cromosfera**: sopra la fotosfera la temperatura torna a salire. Nel tuo PDF va da circa **4400 K a 10.000 K**; fonti NASA la descrivono spesso come una regione che sale fino a circa **20.000 °C** nella parte alta. Non è una contraddizione: dipende da dove misuri e da come definisci il confine alto della cromosfera rispetto alla regione di transizione.
+- **Cromosfera**: sopra la fotosfera la temperatura torna a salire. Va da circa **4400 K a 10.000 K**; fonti NASA la descrivono spesso come una regione che sale fino a circa **20.000 °C** nella parte alta. Non è una contraddizione: dipende da dove misuri e da come definisci il confine alto della cromosfera rispetto alla regione di transizione.
 
 - **Corona**: tipicamente è dell’ordine di **1-2 milioni di K**, ma in regioni attive può essere anche più calda. Il tuo PDF parla di temperature che **superano 10^6 K**; NASA riporta valori fino a circa **2 milioni di °C** come tipici e anche più alti in certe strutture.
 
@@ -82,7 +82,9 @@ Questi granuli sono la manifestazione visibile della convezione che arriva quasi
 
 ## 2. Cromosfera
 
-È lo strato sopra la fotosfera.
+È lo strato sopra la fotosfera. Sottile bordo colorato
+
+(https://it.wikipedia.org/wiki/Cromosfera#/media/File:Solar_eclips_1999_5.jpg)
 
 Normalmente è difficile da osservare in luce bianca, ma può mostrarsi bene in particolari lunghezze d’onda, soprattutto in **H-alfa**.
 
@@ -115,9 +117,9 @@ Qui succede una cosa sorprendente: la temperatura aumenta molto rapidamente.
 
 ## 4. Corona
 
-La corona solare si estende, oltre la cromosfera, fino a distanze di milioni di chilometri ed è costituita da un gas estremamente rarefatto, qualche milionesimo di microgrammo per centimetro cubo. Questo spiega il fatto che essa non sia normalmente visibile, così come invece lo è la fotosfera, ma appare in tutto il suo splendore solo durante le eclissi totali di Sole, con una luminosità circa uguale a quella della Luna piena.
+La corona solare si estende, oltre la cromosfera, fino a distanze di milioni di chilometri ed è costituita da un gas estremamente rarefatto, ==qualche milionesimo di microgrammo per centimetro cubo==. Questo spiega il fatto che essa non sia normalmente visibile, così come invece lo è la fotosfera, ma appare in tutto il suo splendore solo durante le eclissi totali di Sole, con una luminosità circa uguale a quella della Luna piena.
 
-La temperatura della corona solare è di qualche milione di gradi. Questo fatto comporta un elevatissimo grado di ionizzazione del gas che è quindi un plasma. I gas ionizzati della corona solare subiscono fortemente l'influsso dei campi magnetici solari, sia di quello globale, sia di quello molto intenso associato alle **macchie solari** .
+La temperatura della corona solare è di **qualche milione di gradi**. Questo fatto comporta un elevatissimo grado di ionizzazione del gas che è quindi un plasma. I gas ionizzati della corona solare subiscono fortemente l'influsso dei campi magnetici solari, sia di quello globale, sia di quello molto intenso associato alle **macchie solari** .
 La conseguenza è che la forma della corona e la sua estensione possono cambiare fortemente in concomitanza con l'attività solare
 _con il Sole attivo si presenta di forma circolare e simmetrica, mentre è fortemente asimmetrica nei periodi di Sole calmo_.  
 Nei periodi di intensa attività solare la corona solare è sede di protuberanze.
@@ -134,9 +136,6 @@ La corona solare presenta molti enigmi non ancora del tutto risolti. Uno di ques
 _**Immagine cortesia [Steve Albers](http://laps.fsl.noaa.gov/cgi/albers.homepage.cgi), Dennis DiCicco e Gary Emerson.**_
 ### Aspetto
 La corona appare tenue, estesa, irregolare e molto dinamica.
-
-### Fatto sorprendente
-Pur essendo molto rarefatta, la corona ha temperature elevatissime.
 
 ## Coronal holes e vento solare
 

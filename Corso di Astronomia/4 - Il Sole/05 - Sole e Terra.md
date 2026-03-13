@@ -5,9 +5,7 @@ aliases: [Il Sole e la Terra]
 
 # Sole e Terra
 
-## Il Sole influenza davvero la Terra?
-
-Sì, in molti modi.
+## Il Sole influenza davvero la Terra
 
 Non solo con la luce e il calore, ma anche attraverso:
 - particelle cariche,
