@@ -2,7 +2,7 @@
 tags: [astronomia, sole, struttura-interna]
 aliases: [Interno del Sole]
 ---
-
++
 # Struttura interna del Sole
 
 ## Visione d’insieme
@@ -78,7 +78,7 @@ $$
 
 In parole povere: se la temperatura cala troppo rapidamente verso l’esterno, il gas caldo sotto diventa galleggiante, sale, e il gas più freddo scende. A quel punto l’energia non viene più trasportata soprattutto dai fotoni, ma dal **movimento del plasma stesso**.
 
-**Formula del trasporto convettivo** che sia corretta ma ancora leggibile, userei questa:
+**Formula del trasporto convettivo**:
 
 $$  
 F_{\text{conv}} \approx \rho, c_P, \langle v_r ,\Delta T \rangle  
