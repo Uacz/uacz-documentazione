@@ -1,4 +1,4 @@
-- Disco protoplanetario
+
 - Mercurio, Venere, Marte e Luna  (D)
-- Esercizi di Calcolo
+- Perché siamo stati sulla Luna
 - ESPERIENZA PRATICA: Osservazione della Luna
