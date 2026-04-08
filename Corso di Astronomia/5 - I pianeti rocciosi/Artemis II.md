@@ -18,7 +18,7 @@ status: complete
 
 # Panoramica della Missione
 
-Artemis II è la prima missione del programma Artemis a portare un equipaggio umano nello spazio profondo. A differenza delle missioni Apollo, non è un "mordi e fuggi" politico, ma il primo passo verso un'**economia lunare sostenibile** e la futura esplorazione di Marte.
+Artemis II è la prima missione del programma Artemis a portare un equipaggio umano nello spazio profondo. A differenza delle missioni Apollo, non è un "mordi e fuggi" politico, ma potrebbe essere il primo passo verso un'**economia lunare sostenibile**.
 
 ![Figura](../../Utils/Risorse/artemis2.png)
 
@@ -53,20 +53,19 @@ La missione ha subito diversi slittamenti (attualmente prevista non prima di **s
 - **Sviluppo dei sistemi:** Molte componenti (come le tute Axiom o il modulo di atterraggio Starship per Artemis III) sono gestite da privati e presentano ritardi fisiologici in progetti così complessi.
 - **Budget:** La NASA opera oggi con una frazione dei fondi che aveva durante la Guerra Fredda, dovendo ottimizzare ogni singola risorsa.
 
----
-
-**Nota finale:** Artemis II non allunerà. Il lander (Starship) non è ancora pronto e la missione serve proprio a testare che l'uomo possa sopravvivere a quelle distanze prima di tentare il contatto con il suolo in Artemis III.
+Artemis II non allunerà. Il lander (Starship) non è ancora pronto e la missione serve proprio a testare che l'uomo possa sopravvivere a quelle distanze prima di tentare il contatto con il suolo in Artemis III.
 
 ### **Artemis III: Il ritorno sulla superficie**
 
 Attualmente ipotizzata per il **2027**, questa sarà la missione dello storico sbarco.
 
-- **Allunaggio:** A differenza delle missioni Apollo, si utilizzerà un sistema di atterraggio moderno, probabilmente una versione modificata della **Starship di SpaceX**, poiché la capsula Orion non è progettata per atterrare autonomamente.
+- **Allunaggio:** A differenza delle missioni Apollo, si utilizzerà un sistema di atterraggio moderno, probabilmente una versione modificata della **Starship di SpaceX**, poiché la capsula Orion non è progettata per atterrare autonomamente. Attualmente Starship è nella fase primordiale, non c'è ancora nulla di realizzato
 - **Scienza e Nuove Tute:** Gli astronauti indosseranno tute di nuova generazione sviluppate dall'azienda **Axiom** e si concentreranno sulla raccolta di dati scientifici in aree di interesse per futuri insediamenti.
+- **Manca la volontà politica**: l'esplorazione lunare non è una priorità
 
 ### **Artemis IV e oltre: Verso una base stabile**
 
-- **Artemis IV:** Potrebbe avvenire intorno al **2028**. Esiste la possibilità che l'allunaggio umano venga spostato a questa missione se Artemis III dovesse servire come ulteriore test senza equipaggio per il lander.
+- **Artemis IV:** Potrebbe avvenire dopo **2028** (ma siamo già in ritardo), secondo alcuni fonti NASA (https://www.nasa.gov/news-release/nasa-shares-progress-toward-early-artemis-moon-missions-with-crew/?utm_source=chatgpt.com),  Esiste la possibilità che l'allunaggio umano venga spostato a questa missione se Artemis III dovesse servire come ulteriore test senza equipaggio per il lander.
 - **Obiettivo Marte:** La Luna è vista come un "terreno di prova". L'intento a lungo termine è imparare a vivere e sopravvivere su un altro corpo celeste per preparare l'umanità alla futura **esplorazione di Marte**.
 
 ### **Collaborazioni Internazionali e Missioni Secondarie**
