@@ -20,6 +20,8 @@ status: complete
 
 Artemis II è la prima missione del programma Artemis a portare un equipaggio umano nello spazio profondo. A differenza delle missioni Apollo, non è un "mordi e fuggi" politico, ma il primo passo verso un'**economia lunare sostenibile** e la futura esplorazione di Marte.
 
+![Figura](../../Utils/Risorse/artemis2.png)
+
 - **Obiettivo:** Effettuare un _flyby_ (sorvolo) lunare a circa 7.400 km dalla superficie e tornare a Terra.
 - **Durata:** Circa 10 giorni.
 - **Equipaggio:** Quattro pionieri scelti per competenza ed esperienza:
