@@ -1,9 +1,0 @@
-- 2.1 Filosofia e Astronomia: Pitagora, Galileo e Newton
-- [[2.2 Le Leggi di Keplero]]
-- 2.3 La natura ondulatoria della luce (D) https://drive.google.com/file/d/1YuEeWJPMKXZu8EdpsHpDhehR0vgptLCF/view?usp=sharing
-- 2.4 Lo spettro elettromagnetico (D)
-- 2.5 Radiazione di corpo nero(D)
-- [[2.6 Magnitudine apparente e assoluta]]
-- [[2.7 La misura delle distanze]]
-- Esercizi di Calcolo
-- ESPERIENZA PRATICA: laboratorio della luce

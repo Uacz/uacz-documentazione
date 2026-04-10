@@ -1,6 +1,0 @@
-- [[3.1 Lezione sui Telescopi]]
-- ESPERIENZA: Il piano focale 
-- [[3.1 Lezione sui Telescopi#3. Capire le Aberrazioni]]
-- [[Campionamento]]
-- [[Radioastronomia]]
-- ESPERIENZA PRATICA: Stazionamento di un telescopio (D)
