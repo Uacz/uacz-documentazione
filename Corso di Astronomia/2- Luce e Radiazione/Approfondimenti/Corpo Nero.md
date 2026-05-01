@@ -1,3 +1,8 @@
+---
+tags:
+  - corponero
+  - approfondimento
+---
 ## **Abstract**
 
 Il corpo nero è un concetto fondamentale nella fisica moderna, alla base della descrizione della radiazione termica e della nascita della meccanica quantistica. In questo articolo vengono analizzati il modello teorico del corpo nero, le leggi sperimentali che ne governano l'emissione e le formulazioni matematiche derivate dal lavoro di Planck. Vengono inoltre discusse applicazioni astrofisiche e tecnologiche, mettendo in evidenza la centralità del corpo nero nella scienza contemporanea.
