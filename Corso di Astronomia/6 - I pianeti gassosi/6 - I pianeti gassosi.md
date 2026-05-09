@@ -1,4 +1,4 @@
 - Disco protoplanetario
-- Mercurio, Venere, Marte e Luna  (D)
+- Giove, Saturno, Urano e Nettuno  (D)
 - Esercizi di Calcolo
 - ESPERIENZA PRATICA: Osservazione della Luna
