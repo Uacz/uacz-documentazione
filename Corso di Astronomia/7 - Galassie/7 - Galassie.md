@@ -2,5 +2,5 @@
 - La sequenza di Hubble  (D)
 - Galassie a Spirali e Irregolari (P)
 - Galassie Ellittiche (P)
-- Esercizi di Calcolo
+- Quiz
 - ESPERIENZA PRATICA: Osservazione della Galassia di Andromeda o altra galassia (RICHIEDE BUIO)
