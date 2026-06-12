@@ -1,9 +1,9 @@
 
 
-| #   | Data           | Appuntamento                      | Luogo                               | Stato      | Note                                                           |
-| --- | -------------- | --------------------------------- | ----------------------------------- | ---------- | -------------------------------------------------------------- |
-| 1   | 20 giugno 2026 | Open Day Valli Cupe               | Valli Cupe                          | Confermato | Locandina: ![Figura](../../Utils/Risorse/vallecupi.png)        |
-| 2   | 21 giugno 2026 | Conferenza “Cacciatore di Aurore” | Da definire / indicato in locandina | Confermato | Locandina: ![Figura](../../Utils/Risorse/cacciatoreautore.png) |
+| #   | Data           | Appuntamento                      | Luogo                               | Stato                       | Note                                                                                             |
+| --- | -------------- | --------------------------------- | ----------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1   | 20 giugno 2026 | Open Day Valli Cupe               | Valli Cupe                          | Confermato                  | Locandina: ![Figura](Utils/Risorse/vallecupi.png)                                                |
+| 2   | 21 giugno 2026 | Conferenza “Cacciatore di Aurore” | Da definire / indicato in locandina | Confermato                  | Locandina: ![Figura](Utils/Risorse/cacciatoreautore.png)                                         |
 | 3   | 27 giugno 2026 | Escursione Monte Tiriolo          | Monte Tiriolo                       | Confermato / da dettagliare | Escursione astronomica/naturalistica                                                             |
 | 4   | 19 luglio 2026 | Evento Scolacium                  | Scolacium                           | In via di definizione       | Evento da organizzare                                                                            |
 | 5   | 24 luglio 2026 | Lezione sulla Cosmologia          | Da definire                         | Da confermare               | Data con punto interrogativo: verificare conferma                                                |
