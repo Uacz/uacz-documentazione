@@ -1,6 +1,12 @@
-- Via Lattea  (D)
-- La sequenza di Hubble  (D)
-- Galassie a Spirali e Irregolari (P)
-- Galassie Ellittiche (P)
-- Quiz
-- ESPERIENZA PRATICA: Osservazione della Galassia di Andromeda o altra galassia (RICHIEDE BUIO)
+- [[7.0 - Introduzione]]
+- [[7.1 - Dalla Via Lattea agli universi isola]]
+- [[7.2 - La Via Lattea]]
+- [[7.3 - La sequenza di Hubble]]
+- [[7.4 - Luce dimensioni e profili]]
+- [[7.5 - Rotazione Tully Fisher e materia oscura]]
+- [[7.6 - Buchi neri supermassicci]]
+- [[7.7 - Quiz finale]]
+	- Approfondimento
+		- [[Fotografia in H-alfa osservare il gas ionizzato]]
+		- [[Glossario]]
+		- [[Mappa_concettuale]]
