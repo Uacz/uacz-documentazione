@@ -14,4 +14,4 @@
 | 9   | Venerdì 21 agosto 2026   | Evento Castello di Squillace      | Castello di Squillace               | In organizzazione |                                                                                                  |
 | 10  | Sabato 26 settembre      | Evento con il Cicap               | Parco dell'agraria                  | In organizzazione | Evento in fase organizzativa                                                                     |
 
-Possibili altre date 16 Agosto, 22 Agosto, 12 Settembre
+Da aggiungere 22 Agosto
