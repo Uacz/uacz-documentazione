@@ -14,4 +14,13 @@
 | 9   | Venerdì 21 agosto 2026   | Evento Castello di Squillace      | Castello di Squillace               | In organizzazione |                                                                                                  |
 | 10  | Sabato 22 agosto 2026    | Evento a Girifalco                | Punto da stabilire                  | In organizzazione | Evento da organizzare                                                                            |
 | 11  | Sabato 26 settembre      | Evento con il Cicap               | Parco dell'agraria                  | In organizzazione | Evento in fase organizzativa                                                                     |
+Fossato
 forse 7 e 28 agosto
+
+Monasterace
+25 luglio
+2 agosto
+
+Tiriolo
+16 Agosto
+29 Agosto
