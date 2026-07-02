@@ -13,7 +13,9 @@
 | 8   | Venerdì 14 agosto 2026   | Evento Scolacium                  | Scolacium                           | In organizzazione | Evento da organizzare                                                                            |
 | 9   | Venerdì 21 agosto 2026   | Evento Castello di Squillace      | Castello di Squillace               | In organizzazione |                                                                                                  |
 | 10  | Sabato 22 agosto 2026    | Evento a Girifalco                | Punto da stabilire                  | In organizzazione | Evento da organizzare                                                                            |
-| 11  | Sabato 26 settembre      | Evento con il Cicap               | Parco dell'agraria                  | In organizzazione | Evento in fase organizzativa                                                                     |
+| 11  | Sabato 26 settembre      | Evento con il Cicap               | Parco dell'agraria                  | In organizzazione | Evento in fase organizzativa                                                                     
+
+
 Fossato
 forse 7 e 28 agosto
 
